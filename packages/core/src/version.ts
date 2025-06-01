@@ -28,5 +28,5 @@ export class Version {
  * @publicApi
  */
 // packages/core/src/version.ts
-export const VERSION = '0.0.0-test-for-agent';
+var VERSION = '0.0.0-test-for-agent';
 
